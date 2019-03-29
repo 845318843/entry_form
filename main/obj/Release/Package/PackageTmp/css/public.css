@@ -1,0 +1,142 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.banner {
+    width: 320px;
+    height: 137px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+.biao {
+    width: 100%;
+    text-align: center;
+    height: 24px;
+    overflow: hidden;
+    padding-top: 4px;
+    background: url(../images/bg.jpg) left top repeat-x;
+}
+
+    .biao ul li {
+        float: left;
+        width: 33%;
+    }
+
+.server_list {
+    overflow: hidden;
+    width: 100%;
+}
+
+    .server_list h3 {
+        border: #CCE9F7 solid 1px;
+        border-bottom: none;
+        color: #666;
+        text-align: center;
+        overflow: hidden;
+        height: 24px;
+        overflow: hidden;
+        padding-bottom: 5px;
+        color: #00477f;
+        font-size: 18px;
+        padding-top: 5px;
+        background: url("../images/p_h3_bg.gif") repeat-x scroll 0 0;
+    }
+
+    .server_list table {
+        border-top: #CCE9F7 solid 1px;
+        border-right: #CCE9F7 solid 1px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+        .server_list table tr th, .server_list table tr td {
+            border-left: #CCE9F7 solid 1px;
+            border-bottom: #CCE9F7 solid 1px;
+            text-align: center;
+            padding-left: 2px;
+        }
+
+            .server_list table tr td .f_red {
+                font-weight: bold;
+                font-size: 16px;
+            }
+
+            .server_list table tr td a {
+                color: #f60;
+            }
+
+.tjprice {
+    color: #FF0000;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.zz_item {
+    width: 100%;
+    heigh: auto;
+    float: left;
+    padding-top: 10px;
+    line-height: 22px;
+    font-size: 13px;
+}
+
+    .zz_item .f_f60 {
+        font-size: 16px;
+        line-height: 27px;
+        font-family: "微软雅黑","宋体",Arial, Helvetica, sans-serif;
+        font-weight: normal;
+    }
+
+.h1 {
+    padding: 5px 5px 5px 10px;
+    background-color: #CCE9F7;
+    margin: 10px 0;
+}
+
+.zz_item p {
+    text-indent: 2em;
+}
+
+.items {
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: #CCC;
+}
+
+.item_list {
+    width: 100%;
+    float: left;
+}
+
+    .item_list li {
+        float: left;
+        list-style: disc;
+        width: 33%;
+    }
+
+.lx {
+    float: right;
+    color: #F00;
+    font-size: 14px;
+}
+
+    .lx a {
+        color: #F00;
+    }
+
+#footer {
+    width: 100%;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    color: #505050;
+    background: -webkit-gradient(linear,left top,left bottom,from(#d0d0d0),to(#fff));
+    background: -moz-linear-gradient(top,#d0d0d0,#fff);
+    border-top: 1px solid #496f8d;
+    clear: both;
+}
+
+    #footer a {
+        color: #505050;
+    }

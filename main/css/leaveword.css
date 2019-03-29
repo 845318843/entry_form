@@ -1,0 +1,12 @@
+/*留言板样式*/
+#leaveword tr{
+	height:35px;
+}
+input[type=text] {
+	width:170px;
+}
+
+#l_c {
+	width:230px;
+	height:130px;
+}

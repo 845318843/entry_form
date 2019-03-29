@@ -1,0 +1,20 @@
+c:\users\chengang\documents\visual studio 2012\Projects\main\main\bin\main.dll
+c:\users\chengang\documents\visual studio 2012\Projects\main\main\bin\main.pdb
+c:\users\chengang\documents\visual studio 2012\Projects\main\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+c:\users\chengang\documents\visual studio 2012\Projects\main\main\obj\Debug\main.dll
+c:\users\chengang\documents\visual studio 2012\Projects\main\main\obj\Debug\main.pdb
+C:\Users\ChenGang\Desktop\main\main\bin\main.dll
+C:\Users\ChenGang\Desktop\main\main\bin\main.pdb
+C:\Users\ChenGang\Desktop\main\main\obj\Debug\main.dll
+C:\Users\ChenGang\Desktop\main\main\obj\Debug\main.pdb
+C:\Users\ChenGang\Desktop\main\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Tencent Files\845318843\FileRecv\九州通工作室 报名表单\九州通工作室 报名表单\main\bin\main.dll
+D:\用户目录\我的文档\Tencent Files\845318843\FileRecv\九州通工作室 报名表单\九州通工作室 报名表单\main\bin\main.pdb
+D:\用户目录\我的文档\Tencent Files\845318843\FileRecv\九州通工作室 报名表单\九州通工作室 报名表单\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Tencent Files\845318843\FileRecv\九州通工作室 报名表单\九州通工作室 报名表单\main\obj\Debug\main.dll
+D:\用户目录\我的文档\Tencent Files\845318843\FileRecv\九州通工作室 报名表单\九州通工作室 报名表单\main\obj\Debug\main.pdb
+D:\ELSE\排课系统\九州通工作室 报名表单\九州通工作室 报名表单\main\bin\main.dll
+D:\ELSE\排课系统\九州通工作室 报名表单\九州通工作室 报名表单\main\bin\main.pdb
+D:\ELSE\排课系统\九州通工作室 报名表单\九州通工作室 报名表单\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+D:\ELSE\排课系统\九州通工作室 报名表单\九州通工作室 报名表单\main\obj\Debug\main.dll
+D:\ELSE\排课系统\九州通工作室 报名表单\九州通工作室 报名表单\main\obj\Debug\main.pdb

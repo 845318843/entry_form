@@ -1,0 +1,4 @@
+C:\Users\ChenGang\Desktop\main\main\bin\main.dll
+C:\Users\ChenGang\Desktop\main\main\bin\main.pdb
+C:\Users\ChenGang\Desktop\main\main\obj\Release\main.dll
+C:\Users\ChenGang\Desktop\main\main\obj\Release\main.pdb
